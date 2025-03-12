@@ -78,7 +78,7 @@ For further queries or contributions, please open an issue or reach out via the 
     <td align="center"><a href="https://github.com/adity20"><img src="https://avatars.githubusercontent.com/adity20" width="100px;" alt=""/><br /><sub><b>Aditya Sharma</b></sub></a></td>
     <td align="center"><a href="https://github.com/Sejalkaur"><img src="https://avatars.githubusercontent.com/Sejalkaur" width="100px;" alt=""/><br /><sub><b>Sejal Kaur</b></sub></a></td>
     <td align="center"><a href="https://github.com/rajanraj2"><img src="https://avatars.githubusercontent.com/rajanraj2" width="100px;" alt=""/><br /><sub><b>Rajan Raj</b></sub></a></td>
-    <td align="center"><a href="https://github.com/rusted-dreams"><img src="https://avatars.githubusercontent.com/rusted-dreams" width="100px;" alt=""/><br /><sub><b>Rajan Raj</b></sub></a></td>
+    <td align="center"><a href="https://github.com/rusted-dreams"><img src="https://avatars.githubusercontent.com/rusted-dreams" width="100px;" alt=""/><br /><sub><b>Shubhomkar Mahato</b></sub></a></td>
     <td align="center"><a href="https://github.com/nikhilyadav24"><img src="https://avatars.githubusercontent.com/nikhilyadav24" width="100px;" alt=""/><br /><sub><b>Nikhil Yadav</b></sub></a></td>
   </tr>
 </table>
